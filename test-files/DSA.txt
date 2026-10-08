@@ -1,0 +1,5 @@
+Data structures are important in computer science.
+Java can be used to implement data structures like stack and queue.
+DSA includes searching and sorting algorithms.
+A stack is a LIFO data structure, while a queue is a FIFO data structure.
+Algorithms analyze efficiency using Big O notation.

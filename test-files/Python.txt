@@ -1,0 +1,4 @@
+Python is a programming language.
+Python is easy to learn and beginner friendly.
+Python is popular in machine learning, artificial intelligence, and data science.
+Python can implement searching algorithms and sorting algorithms efficiently.
